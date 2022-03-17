@@ -1,0 +1,6 @@
+String str = new String(new byte[]{114,101,100,110,101,116,118,112,115,})
+String str = new String(new byte[]{69,108,105,116,101,86,80,78,})
+String str = new String(new byte[]{82,101,105,110,101,114,86,80,78,})
+String str = new String(new byte[]{82,79,83,69,82,79,86,80,78,})
+String str = new String(new byte[]{83,104,97,100,111,119,86,80,78,})
+String str = new String(new byte[]{73,110,116,101,114,67,111,108,86,80,78,})
