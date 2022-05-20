@@ -1,0 +1,12 @@
+[{
+ 	"ConfigVersion": "1.1",
+ 	"vmess": "cronoksjsongen"
+ }, {
+ 	"Name": "Wom Colombia V2-ray-1",
+ 	"Flag": "us",
+ 	"vmess": "vmess://eyJ2IjoiMiIsInBzIjoi8J+OriBXb20gQ29sb21iaWEiLCJhZGQiOiJzZW5hLnRlcnJpdG9yaW8ubGEiLCJwb3J0IjoiNDQzIiwiaWQiOiJhNDBkMzRjNi1iNzdjLTQ2NDgtOTIxMC0zZThkMmY0MjI2YjUiLCJhaWQiOiIxNiIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidXN2LTMub3BlbnYycmF5LmNvbSIsInBhdGgiOiIvb3BlbnR1bm5lbD91c2VyPW9wZW50dW5uZWwubmV0LW1hcmNvIiwidGxzIjoidGxzIiwic25pIjoidXN2LTMub3BlbnYycmF5LmNvbSJ9"
+}, {
+ 	"Name": "Wom Colombia V2-ray-2",
+ 	"Flag": "us",
+ 	"vmess": "vmess://eyJ2IjoiMiIsInBzIjoi8J+OriBXb20gQ29sb21iaWEiLCJhZGQiOiJzZW5hLnRlcnJpdG9yaW8ubGEiLCJwb3J0IjoiNDQzIiwiaWQiOiJhNDBkMzRjNi1iNzdjLTQ2NDgtOTIxMC0zZThkMmY0MjI2YjUiLCJhaWQiOiIxNiIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidXN2LTMub3BlbnYycmF5LmNvbSIsInBhdGgiOiIvb3BlbnR1bm5lbD91c2VyPW9wZW50dW5uZWwubmV0LW1hcmNvIiwidGxzIjoidGxzIiwic25pIjoidXN2LTMub3BlbnYycmF5LmNvbSJ9"
+}]
