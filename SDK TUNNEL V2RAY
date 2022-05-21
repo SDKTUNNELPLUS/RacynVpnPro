@@ -1,5 +1,5 @@
 [{
- 	"ConfigVersion": "1.1",
+ 	"ConfigVersion": "1.2",
  	"vmess": "cronoksjsongen"
  }, {
  	"Name": "Wom Colombia V2-ray-1",
@@ -9,4 +9,16 @@
  	"Name": "Wom Colombia V2-ray-2",
  	"Flag": "us",
  	"vmess": "vmess://eyJ2IjoiMiIsInBzIjoi8J+OriBXb20gQ29sb21iaWEiLCJhZGQiOiJzZW5hLnRlcnJpdG9yaW8ubGEiLCJwb3J0IjoiNDQzIiwiaWQiOiJhNDBkMzRjNi1iNzdjLTQ2NDgtOTIxMC0zZThkMmY0MjI2YjUiLCJhaWQiOiIxNiIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidXN2LTMub3BlbnYycmF5LmNvbSIsInBhdGgiOiIvb3BlbnR1bm5lbD91c2VyPW9wZW50dW5uZWwubmV0LW1hcmNvIiwidGxzIjoidGxzIiwic25pIjoidXN2LTMub3BlbnYycmF5LmNvbSJ9"
+}, {
+ 	"Name": "Avantel Colombia V2-ray-1",
+ 	"Flag": "us",
+ 	"vmess": "vmess://eyJ2IjoiMiIsInBzIjoi8J+OriBBdmFudGVsIENvbG9tYmlhIiwiYWRkIjoid3d3Lmdvdi5jbyIsInBvcnQiOiI0NDMiLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsImFpZCI6IjE2IiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1c3YtMy5vcGVudjJyYXkuY29tIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtbWFyY28iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1c3YtMy5vcGVudjJyYXkuY29tIn0="
+}, {
+ 	"Name": "Tigo Colombia V2-ray-1",
+ 	"Flag": "us",
+ 	"vmess": "vmess://eyJ2IjoiMiIsInBzIjoi8J+OriBUaWdvIENvbG9tYmlhIiwiYWRkIjoic3RhdGljLnpkYXNzZXRzLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsImFpZCI6IjE2IiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1c3YtMy5vcGVudjJyYXkuY29tIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtbWFyY28iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1c3YtMy5vcGVudjJyYXkuY29tIn0="
+}, {
+ 	"Name": "Etb Colombia V2-ray-1",
+ 	"Flag": "us",
+ 	"vmess": "vmess://eyJ2IjoiMiIsInBzIjoi8J+OriBFdGIgQ29sb21iaWEiLCJhZGQiOiJjZG5qcy5jbG91ZGZsYXJlLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsImFpZCI6IjE2IiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1c3YtMy5vcGVudjJyYXkuY29tIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtbWFyY28iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1c3YtMy5vcGVudjJyYXkuY29tIn0="
 }]
