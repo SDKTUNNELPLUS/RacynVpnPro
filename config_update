@@ -1,0 +1,11 @@
+{
+"newVersion": "1.1",
+"apkUrl": "https://play.google.com/store/apps/details?id=com.fast.plus",
+"versionNotes":"
+• Fixed Android 12 Crashes
+• Fixed Add Timer
+• Optimize UI
+• Optimize Connection
+• Added Custom Server
+"
+}
